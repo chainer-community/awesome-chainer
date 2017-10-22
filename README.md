@@ -141,6 +141,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 | Conference | Paper title | Codes | comments |
 |:-----------|:------------|:------|:---------|
+| arXiv only |  [GP-GAN: Towards Realistic High-Resolution Image Blending](https://arxiv.org/abs/1703.07195) | [wuhuikai/GP-GAN](https://github.com/wuhuikai/GP-GAN) | |
 | arXiv only |  [Temporal Generative Adversarial Nets](https://arxiv.org/abs/1611.06624) | | |
 | arXiv only |  [Reasoning with Memory Augmented Neural Networks for Language Comprehension](https://arxiv.org/abs/1610.06454) | | |
 | arXiv only |  [PMI Matrix Approximations with Applications to Neural Language Modeling](https://arxiv.org/abs/1609.01235) | | |
@@ -174,6 +175,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 | ACL 2016 | [Generating Natural Language Descriptions for Semantic Representations of Human Brain Activity](https://www.aclweb.org/anthology/P/P16/P16-3004.pdf) | | |
 | WMT 2016 | [MetaMind Neural Machine Translation System for WMT 2016](https://aclweb.org/anthology/W/W16/W16-2308.pdf) | | |
 | ICML 2016 | [Group Equivariant Convolutional Networks](https://arxiv.org/abs/1602.07576) | [GitHub](https://github.com/tscohen/GrouPy) | Chainer is not referred in the paper, but the authors kindly informed us.|
+| CVPR 2017 Workshop | [Robocodes: Towards Generative Street Addresses from Satellite Imagery](https://research.fb.com/publications/robocodes-towards-generative-street-addresses-from-satellite-imagery/) |
 
 <a name="blogs" />
 
