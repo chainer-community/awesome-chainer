@@ -28,7 +28,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 ## Tutorials
 
-* [Chainer Tutorial Offical document]http://docs.chainer.org/en/latest/tutorial/index.html) - Chainer Tutorial Offical document
+* [Chainer Tutorial Offical document](http://docs.chainer.org/en/latest/tutorial/index.html) - Chainer Tutorial Offical document
 
 ## Hands-on
 
@@ -60,17 +60,16 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 
 ## Examples
-| Method | Codes |
-|:--------|:------|
-| Chainer Hands-on | [hido/chainer-handson](https://github.com/hido/chainer-handson/blob/master/chainer.ipynb) |
-| Recurrent neural network (RNN) | [yusuketomoto/chainer-char-rnn](https://github.com/yusuketomoto/chainer-char-rnn) |
-| Fast R-CNN | [mitmul/chainer-fast-rcnn](https://github.com/mitmul/chainer-fast-rcnn) |
-| Fast R-CNN | [apple2373/chainer-simple-fast-rnn](https://github.com/apple2373/chainer-simple-fast-rnn) |
-| Faster R-CNN | [mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn) |
-| QRNN | [jekbradbury/qrnn.py](http://metamind.io/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding/) |
-| Siamese Network | [mitmul/chainer-siamese](https://github.com/mitmul/chainer-siamese) |
-| Support Vector Machine (SVM) | [mitmul/chainer-svm](https://github.com/mitmul/chainer-svm) |
-| Group Equivariant Convolutional Neural Networks | [tscohen/GrouPy](https://github.com/tscohen/GrouPy) |
+
+* Chainer Hands-on[hido/chainer-handson](https://github.com/hido/chainer-handson/blob/master/chainer.ipynb) |
+* Recurrent neural network (RNN) | [yusuketomoto/chainer-char-rnn](https://github.com/yusuketomoto/chainer-char-rnn) |
+* Fast R-CNN | [mitmul/chainer-fast-rcnn](https://github.com/mitmul/chainer-fast-rcnn) |
+* Fast R-CNN | [apple2373/chainer-simple-fast-rnn](https://github.com/apple2373/chainer-simple-fast-rnn) |
+* Faster R-CNN | [mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn) |
+* QRNN | [jekbradbury/qrnn.py](http://metamind.io/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding/) |
+* Siamese Network | [mitmul/chainer-siamese](https://github.com/mitmul/chainer-siamese) |
+* Support Vector Machine (SVM) | [mitmul/chainer-svm](https://github.com/mitmul/chainer-svm) |
+* Group Equivariant Convolutional Neural Networks | [tscohen/GrouPy](https://github.com/tscohen/GrouPy) |
 
 
 ### NLP
