@@ -2,11 +2,11 @@
 
 ## What is Chainer?
 
-Chainer is a flexible framework for neural networks. One major goal is flexibility, so it must enable us to write complex architectures simply and intuitively.
+Chainer is a flexible framework for neural networks. One of the major goals is flexibility, so it must enable us to write complex architectures simply and intuitively.
 
 More info  [here](http://chainer.org/)
 
-ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
+ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 
 ## Table of Contents
 
@@ -41,11 +41,15 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 ## Models/Projects
 
-### Preferred Networks official
+### Official Add-on Packages
 
-* [ChainerRL](https://github.com/pfnet/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
-* [ChainerCV](https://github.com/pfnet/chainercv) -  Versatile set of tools for Deep Learning based Computer Vision
-* [Paint Chainer](https://github.com/pfnet/PaintsChainer) - Paints Chainer is line drawing colorizer using chainer.
+* [ChainerRL](https://github.com/chainer/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
+* [ChainerCV](https://github.com/chainer/chainercv) -  Versatile set of tools for Deep Learning based Computer Vision
+* [ChainerMN](https://github.com/chainer/chainermn) - Scalable distributed deep learning with Chainer
+
+### Services using Chainer
+
+* [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Paints Chainer is line drawing colorizer using chainer.
 
 <a name="#github-examples" />
 
@@ -169,7 +173,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 ## Videos
 
-### Only Japanese
+(in Japanese)
 
 * [Chainer の Trainer 解説とNStepLSTM について](https://www.youtube.com/watch?v=ok_bvPKAEaM) Published on Mar 15, 2017
 * [Chainer Meetup #04](https://www.youtube.com/watch?v=Fq5ZQ1ccG38&t=6837s) Published on Feb 23, 2017
