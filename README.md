@@ -23,7 +23,6 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 
 <!-- /MarkdownTOC -->
 
-
 <a name="github-tutorials" />
 
 ## Tutorials
@@ -34,8 +33,7 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 
 *	[hido/chainer-handson](https://github.com/hido/chainer-handson/blob/master/chainer.ipynb) - Chainer Hands-on
 *	[iwiwi/chainer-handson](https://github.com/iwiwi/chainer-handson/blob/master/chainer-ja.ipynb) - Chainer Hands-on(JP CPU only)
-
-
+* [mitmul/chainer-handson](https://github.com/mitmul/chainer-handson) - Chainer Hands-on
 
 <a name="github-projects" />
 
@@ -56,25 +54,15 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 # Chainer External Examples
 
 ## Preferred NetWorks Research
-* [LSGAN](https://github.com/pfnet-research/chainer-LSGAN) - Least Squares Generative Adversarial Network implemented in Chainer
-* [Chainer-gogh](https://github.com/pfnet-research/chainer-gogh) - Implementation of "A neural algorithm of Artistic style"
-* [Chainer Graph CNN](https://github.com/pfnet-research/chainer-graph-cnn) - Chainer implementation of 'Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering' (https://arxiv.org/abs/1606.09375)
+
+* [chainer-LSGAN](https://github.com/pfnet-research/chainer-LSGAN) - Least Squares Generative Adversarial Network implemented in Chainer
+* [chainer-gogh](https://github.com/pfnet-research/chainer-gogh) - Implementation of "A neural algorithm of Artistic style"
+* [chainer-graph-cnn](https://github.com/pfnet-research/chainer-graph-cnn) - Chainer implementation of 'Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering' (https://arxiv.org/abs/1606.09375)
 * [chainer-segnet](https://github.com/pfnet-research/chainer-segnet) - SegNet implementation & experiments in Chainer
 * [chainer-pix2pix](https://github.com/pfnet-research/chainer-pix2pix) - chainer implementation of pix2pix
-
-
-## Examples
-
-* [hido/chainer-handson](https://github.com/hido/chainer-handson/blob/master/chainer.ipynb) - Chainer Hands-on
-* [yusuketomoto/chainer-char-rnn](https://github.com/yusuketomoto/chainer-char-rnn) - Recurrent neural network (RNN)
-* [mitmul/chainer-fast-rcnn](https://github.com/mitmul/chainer-fast-rcnn) - Fast R-CNN
-* [apple2373/chainer-simple-fast-rnn](https://github.com/apple2373/chainer-simple-fast-rnn) - Fast R-CNN
-* [mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn) - Faster R-CNN
-* [jekbradbury/qrnn.py](http://metamind.io/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding/) - QRNN
-* [mitmul/chainer-siamese](https://github.com/mitmul/chainer-siamese) - Siamese Network
-* [mitmul/chainer-svm](https://github.com/mitmul/chainer-svm) - Support Vector Machine (SVM)
-* [tscohen/GrouPy](https://github.com/tscohen/GrouPy) - Group Equivariant Convolutional Neural Networks
-
+* [chainer-ADDA](https://github.com/pfnet-research/chainer-ADDA) - Adversarial Discriminative Domain Adaptation
+* [chainer-gan-lib](https://github.com/pfnet-research/chainer-gan-lib) - Various GANs implementation
+* [tgan](https://github.com/pfnet-research/tgan) - Temporal Generative Adversarial Nets
 
 ### NLP
 
@@ -82,29 +70,39 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
  * [odashi/chainer_rnnlm.py](https://gist.github.com/odashi/0d6e259abcc14f2d2d28) - RNN Language Model
  * [odashi/chainer_encoder_decoder.py](https://gist.github.com/odashi/8d21f8fc23c075cd3042) - Neural Encoder-Decoder Machine Translation
  * [prajdabre/chainer_examples](https://github.com/prajdabre/chainer_examples/blob/master/chainer-1.5/LSTMVariants.py) - LSTM variants
+ * [yusuketomoto/chainer-char-rnn](https://github.com/yusuketomoto/chainer-char-rnn) - Recurrent neural network (RNN)
+ * [mlpnlp/mlpnlp-nmt](https://github.com/mlpnlp/mlpnlp-nmt) - LSTM encoder-decoder with attention mechanism
+ * [unnonouno/chainer-memnn](https://github.com/unnonouno/chainer-memnn) - End-to-end memory networks
+ * [jekbradbury/qrnn.py](http://metamind.io/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding/) - QRNN
 
 ### Computer Vision
 
+ * [tscohen/GrouPy](https://github.com/tscohen/GrouPy) - Group Equivariant Convolutional Neural Networks
+ * [mitmul/chainer-fast-rcnn](https://github.com/mitmul/chainer-fast-rcnn) - Fast R-CNN
+ * [mitmul/chainer-faster-rcnn](https://github.com/mitmul/chainer-faster-rcnn) - Faster R-CNN
  * [mitmul/chainer-cifar10](https://github.com/mitmul/chainer-cifar10) - Cifar10
  * [mitmul/DeepPose](https://github.com/mitmul/deeppose) - Deep pose
+ * [mitmul/chainer-conv-vis](https://github.com/mitmul/chainer-conv-vis) - Convolution Filter Visualization
+ * [mitmul/chainer-imagenet-vgg](https://github.com/mitmul/chainer-imagenet-vgg) - VGG
+ * [mitmul/chainer-segnet](https://github.com/mitmul/chainer-segnet) - SegNet
+ * [mitmul/PSPNet](https://github.com/mitmul/chainer-pspnet) - Pyramid Scene Parsing Network
+ * [apple2373/chainer-simple-fast-rnn](https://github.com/apple2373/chainer-simple-fast-rnn) - Fast R-CNN
+ * [apple2373/chainer_stylenet](https://github.com/apple2373/chainer_stylenet) - StyleNet (A Neural Algorithm of Artistic Style)
+ * [apple2373/chainer_caption_generation](https://github.com/apple2373/chainer_caption_generation) - Show and Tell
  * [mrkn/chainer-srcnn](https://github.com/mrkn/chainer-srcnn) - Image super-resolution
  * [Hi-king/chainer_superresolution](https://github.com/Hi-king/chainer_superresolution) - Image super-resolution
  * [darashi/chainer-example-overfeat-classify](https://github.com/darashi/chainer-example-overfeat-classify) - Overfeat
  * [RyotaKatoh/chainer-Variational-AutoEncoder](https://github.com/RyotaKatoh/chainer-Variational-AutoEncoder) - Variational autoencoder (VAE)
- * [mitmul/chainer-imagenet-vgg](https://github.com/mitmul/chainer-imagenet-vgg) - VGG
  * [yasunorikudo/chainer-ResNet](https://github.com/yasunorikudo/chainer-ResNet) - ResNet
  * [yasunorikudo/chainer-DenseNet](https://github.com/yasunorikudo/chainer-DenseNet) - DenseNet
  * [yasunorikudo/chainer-ResDrop](https://github.com/yasunorikudo/chainer-ResDrop) - ResDrop
- * [mitmul/chainer-conv-vis](https://github.com/mitmul/chainer-conv-vis) - Convolution Filter Visualization
  * [yusuketomoto/chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle) - Perceptual Losses for Real-Time Style Transfer and Super-Resolution
  * [rezoo/illustration2vec](https://github.com/rezoo/illustration2vec) - illustration2vec
- * [apple2373/chainer_stylenet](https://github.com/apple2373/chainer_stylenet) - StyleNet (A Neural Algorithm of Artistic Style)
- * [mattya/chainer-gogh](https://github.com/mattya/chainer-gogh) - StyleNet (A Neural Algorithm of Artistic Style)
- * [apple2373/chainer_caption_generation](https://github.com/apple2373/chainer_caption_generation) - Show and Tell
  * [chainer-prednet](https://github.com/kunimasa-kawasaki/chainer-prednet) - Deep Predictive Coding Networks
  * [hillbig/binary_net](https://github.com/hillbig/binary_net) - BinaryNet
  * [stitchfix/fauxtograph](https://github.com/stitchfix/fauxtograph) - Variational Auto-Encoder (VAE), Generative Adversarial Nets (GAN), VAE-GAN
  * [rezoo/data.py](https://gist.github.com/rezoo/4e005611aaa4dad26697) - Generative Adversarial Nets (GAN)
+ * [mattya/chainer-gogh](https://github.com/mattya/chainer-gogh) - StyleNet (A Neural Algorithm of Artistic Style)
  * [mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Deep Convolutional Generative Adversarial Network (DCGAN)
  * [mattya/chainer-fluid](https://github.com/mattya/chainer-fluid) - Fluid simulation
  * [ktnyt/chainer_ca.py](https://gist.github.com/ktnyt/58e015dd9ff33049da5a) - Convolutional Autoencoder
@@ -114,42 +112,43 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
  * [hvy/chainer-gan-denoising-feature-matching](https://github.com/hvy/chainer-gan-denoising-feature-matching) - Generative Adversarial Networks with Denoising Feature Matching
  * [hvy/chainer-visualization](https://github.com/hvy/chainer-visualization) - Visualizing and Understanding Convolutional Networks
  * [hvy/chainer-gan-trainer](https://github.com/hvy/chainer-gan-trainer) - Chainer GAN Trainer
- * [dsanno/chainer-dfi](https://github.com/dsanno/chainer-dfi) - Deep Feature Interpolation for Image Content Changes
- * [mitmul/chainer-segnet](https://github.com/mitmul/chainer-segnet) - SegNet
  * [musyoku/wasserstein-gan](https://github.com/musyoku/wasserstein-gan) - WGAN
  * [weihua916/imsat](https://github.com/weihua916/imsat) - IMSAT
  * [Hakuyume/chainer-ssd](https://github.com/Hakuyume/chainer-ssd) - SSD
  * [leetenki/YOLOv2](https://github.com/leetenki/YOLOv2) - YOLOv2
  * [leetenki/YOLOtiny_v2](https://github.com/leetenki/YOLOtiny_v2_chainer) - YOLOtiny_v2
- * [deformable-conv](https://github.com/yuyu2172/deformable-conv) - Deformable-conv
- * [chainercv](https://github.com/pfnet/chainercv) - chainercv
-
+ * [yuyu2172/deformable-conv](https://github.com/yuyu2172/deformable-conv) - Deformable-conv
+ * [dsanno/chainer-dfi](https://github.com/dsanno/chainer-dfi) - Deep Feature Interpolation for Image Content Changes
+ * [dsanno/chainer-dfi](https://github.com/dsanno/chainer-dfi) - Deep Feature Interpolation for Image Content Changes
 
 ### Reinforcement Learning
 
  * [ugo-nama-kun/DQN-chainer](https://github.com/ugo-nama-kun/DQN-chainer) - Deep Q-Network (DQN)
 
-### musyoku
+### Generative models
 
+* [crcrpar/chainer-VAE](https://github.com/crcrpar/chainer-VAE) - Variational AutoEncoder
 * [musyoku/LSGAN](https://github.com/musyoku/LSGAN) - LSGAN
 * [musyoku/began](https://github.com/musyoku/began) - BEGAN
-*  [adversarial-autoencoder](https://github.com/musyoku/adversarial-autoencoder) - adversarial-autoencoder
-* [dsanno/chainer-dfi](https://github.com/dsanno/chainer-dfi) - chainer-dfi
-* [chainer-VAE](https://github.com/crcrpar/chainer-VAE) - chainer-VAE
-* [wavenet](https://github.com/musyoku/wavenet) - wavenet
-* [chainer-sequential](https://github.com/musyoku/chainer-sequential) - chainer-sequential
-* [musyoku/IMSAT](https://github.com/musyoku/IMSAT) - IMSAT
+* [musyoku/adversarial-autoencoder](https://github.com/musyoku/adversarial-autoencoder) - adversarial-autoencoder
 * [musyoku/unrolled-gan](https://github.com/musyoku/unrolled-gan) - unrolled-ga
 * [musyoku/improved-gan](https://github.com/musyoku/improved-gan)- improved-gan
-* [musyoku/mnist-oneshot](https://github.com/musyoku/mnist-oneshot) - mnist-oneshot
-* [musyoku/adgm](https://github.com/musyoku/adgm) - adgm
-* [musyoku/vat](https://github.com/musyoku/vat) - VAT
-* [musyoku/ddgm](https://github.com/musyoku/ddgm) - DDGM
-* [musyoku/recurrent-batch-normalization](https://github.com/musyoku/recurrent-batch-normalization) - recurrent-batch-normalization
-* [musyoku/weight-normalization](https://github.com/musyoku/weight-normalization) - weight-normalization
-* [musyoku/minibatch_discrimination](https://github.com/musyoku/minibatch_discrimination) - minibatch_discrimination
-* [musyoku/variational-autoencoder](https://github.com/musyoku/variational-autoencoder) - VAE
+* [musyoku/variational-autoencoder](https://github.com/musyoku/variational-autoencoder) - Semi-Supervised Learning with Deep Generative Models
+* [musyoku/adgm](https://github.com/musyoku/adgm) - Auxiliary Deep Generative Models
+* [musyoku/ddgm](https://github.com/musyoku/ddgm) - Deep Directed Generative Models with Energy-Based Probability Estimation
+* [musyoku/minibatch_discrimination](https://github.com/musyoku/minibatch_discrimination) - Minibatch discrimination
+* [musyoku/wavenet](https://github.com/musyoku/wavenet) - wavenet
 
+### Unsupervised/Semi-supervised learning
+
+* [musyoku/IMSAT](https://github.com/musyoku/IMSAT) - IMSAT
+* [musyoku/vat](https://github.com/musyoku/vat) - VAT
+* [musyoku/mnist-oneshot](https://github.com/musyoku/mnist-oneshot) - mnist-oneshot
+* [mitmul/chainer-siamese](https://github.com/mitmul/chainer-siamese) - Siamese Network
+
+### Others
+
+* [mitmul/chainer-svm](https://github.com/mitmul/chainer-svm) - Support Vector Machine (SVM)
 
 ## Blog posts
 
@@ -161,13 +160,14 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 
 ## Tools and extensions
 
-* [Deel; A High level deep neural network description language](https://github.com/uei/deel)
-* [DEEPstation](https://libraries.io/github/uei/deepstation)
-* [chainer_imagenet_tools](https://github.com/shi3z/chainer_imagenet_tools)
-* [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer)
-* [chainer-libDNN](https://github.com/tochikuji/chainer-libDNN)
-
-
+* [uei/Deel; A High level deep neural network description language](https://github.com/uei/deel)
+* [uei/DEEPstation](https://libraries.io/github/uei/deepstation)
+* [shi3z/chainer_imagenet_tools](https://github.com/shi3z/chainer_imagenet_tools)
+* [lucidfrontier45/scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer)
+* [tochikuji/chainer-libDNN](https://github.com/tochikuji/chainer-libDNN)
+* [musyoku/weight-normalization](https://github.com/musyoku/weight-normalization) - Weight Normalization Layer for Chainer
+* [musyoku/chainer-sequential](https://github.com/musyoku/chainer-sequential) - chainer-sequential
+* [musyoku/recurrent-batch-normalization](https://github.com/musyoku/recurrent-batch-normalization) - Recurrent Batch Normalization
 
 <a name="video" />
 
@@ -178,8 +178,6 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 * [Chainer の Trainer 解説とNStepLSTM について](https://www.youtube.com/watch?v=ok_bvPKAEaM) Published on Mar 15, 2017
 * [Chainer Meetup #04](https://www.youtube.com/watch?v=Fq5ZQ1ccG38&t=6837s) Published on Feb 23, 2017
 * [1014：深層学習フレームワークChainerの導入と化合物活性予測への応用](https://www.youtube.com/watch?v=lM76gLQag4I&t=1211s) Published on Dec 2, 2015
-
-
 
 <a name="papers" />
 
