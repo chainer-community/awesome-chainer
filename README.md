@@ -34,6 +34,7 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 *	[hido/chainer-handson](https://github.com/hido/chainer-handson/blob/master/chainer.ipynb) - Chainer Hands-on
 *	[iwiwi/chainer-handson](https://github.com/iwiwi/chainer-handson/blob/master/chainer-ja.ipynb) - Chainer Hands-on(JP CPU only)
 * [mitmul/chainer-handson](https://github.com/mitmul/chainer-handson) - Chainer Hands-on
+* [mitmul/chainer-notebooks](https://github.com/mitmul/chainer-notebooks) - Chainer Jupyter Notebooks
 
 <a name="github-projects" />
 
