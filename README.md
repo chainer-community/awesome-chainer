@@ -43,8 +43,10 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 ### Official Add-on Packages
 
 * [ChainerRL](https://github.com/chainer/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
-* [ChainerCV](https://github.com/chainer/chainercv) -  Versatile set of tools for Deep Learning based Computer Vision
+* [ChainerCV](https://github.com/chainer/chainercv) - Versatile set of tools for Deep Learning based Computer Vision
 * [ChainerMN](https://github.com/chainer/chainermn) - Scalable distributed deep learning with Chainer
+* [ChainerUI](https://github.com/chainer/chainerui) - ChainerUI is a visualization and management tool for Chainer.
+
 
 ### Services using Chainer
 
