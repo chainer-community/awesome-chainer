@@ -11,15 +11,16 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Tutorials](#github-tutorials)
-- [Models/Projects](#github-projects)
-- [Examples](#github-examples)
-- [Libraries](#libraries)
-- [Videos](#video)
-- [Papers](#papers)
-- [Blog posts](#blogs)
-- [Community](#community)
-- [Books](#books)
+
+* [Tutorials](#github-tutorials)
+* [Models/Projects](#github-projects)
+* [Examples](#github-examples)
+* [Libraries](#libraries)
+* [Videos](#video)
+* [Papers](#papers)
+* [Blog posts](#blogs)
+* [Community](#community)
+* [Books](#books)
 
 <!-- /MarkdownTOC -->
 
