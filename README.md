@@ -26,9 +26,9 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 
 <a name="github-tutorials" />
 
-## Tutorials
+## Guides
 
-* [Chainer Tutorial Offical document](http://docs.chainer.org/en/latest/tutorial/index.html) - Chainer Tutorial Offical document
+* [Chainer Offical Guides](https://docs.chainer.org/en/stable/guides/index.html) - Chainer guides in the offical document
 
 ## Hands-on
 
