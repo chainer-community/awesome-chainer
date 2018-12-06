@@ -124,6 +124,7 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
  * [yuyu2172/deformable-conv](https://github.com/yuyu2172/deformable-conv) - Deformable-conv
  * [dsanno/chainer-dfi](https://github.com/dsanno/chainer-dfi) - Deep Feature Interpolation for Image Content Changes
  * [dsanno/chainer-dfi](https://github.com/dsanno/chainer-dfi) - Deep Feature Interpolation for Image Content Changes
+ * [osmr/imgclsmob](https://github.com/osmr/imgclsmob) - Collection of classification models pretrained on the ImageNet-1K
 
 ### Reinforcement Learning
 
